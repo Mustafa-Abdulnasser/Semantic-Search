@@ -1,1 +1,1 @@
-# Semantic-Search
+The project sets out to revolutionize search capabilities through the strategic implementation of Natural Language Processing (NLP) techniques. Traditional search engines rely on lexical matches, whereas semantic search transcends this limitation by comprehending the content of search queries, including synonym identification. The primary goal is to implement semantic search within articles and concurrently extract significant keywords, contributing to more precise and context-aware information retrieval.
